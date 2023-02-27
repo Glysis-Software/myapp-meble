@@ -5,6 +5,7 @@ import Discount from "../component/discount";
 import VideoPlayer from "../component/videoPlayer";
 import Blogs from "@/component/blogs";
 import Card from "@/component/Card";
+import Services from "@/component/Services";
 import Footer from "@/component/footer";
 
 const MainPage = () => {
@@ -15,6 +16,7 @@ const MainPage = () => {
             <Summery />
             <Discount />
             <VideoPlayer />
+            <Services/>
             <Card />
             <Blogs />
             <Footer />
